@@ -26,6 +26,7 @@ int main (){
         }
         else{
             printf("Errore!Il carattere inserito non è valido!\n");
+            scanf("%*c"); //Salto un carattere
         } 
     }
 
