@@ -1,3 +1,5 @@
+//Realizzare un programma che calcoli l'indice di contagio del COVID-19
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
